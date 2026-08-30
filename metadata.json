@@ -1,0 +1,6 @@
+{
+  "name": "PsicoGRO NR-1 - Gestão de Riscos Psicossociais & GRO",
+  "description": "Plataforma SaaS corporativa para gestão de riscos psicossociais conforme a NR-1 e NR-17, com questionários anônimos validados (COPSOQ II), matriz de risco 5x5, plano de ação 5W2H e relatórios PDF automatizados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
